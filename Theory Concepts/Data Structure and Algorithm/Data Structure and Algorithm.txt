@@ -1,0 +1,26 @@
+
+Data structure: Organizing the data in efficient way.
+
+Big-O Notation:
+O(1)
+Constant time
+
+O(log n)
+Logarithmic time
+e.g binary search
+
+O(n)
+Linear time
+e.g linear search
+
+O(n log n)
+Logarithmic time
+e.g merge sort, heap sort
+
+O(n²)
+Quadratic Time.
+e.g Selection Sort, Bubble Sort, Quick Sort
+
+O(2n3)
+
+O(n!)
