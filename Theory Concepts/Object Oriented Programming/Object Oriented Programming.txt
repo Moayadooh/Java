@@ -1,4 +1,15 @@
 
+Java OOP Concepts:
+https://www.javatpoint.com/java-oops-concepts
+
+Object-based programming language follows all the features of OOPs except Inheritance. 
+JavaScript and VBScript are examples of object-based programming languages.
+
+OOP advantages:
+-easy to manage
+-secure (data hiding)
+-simulate real-world event much more effectively
+
 Static Binding happens at compile time.
 example: Method Overloading
 
@@ -16,6 +27,7 @@ Aggregation (has-a), (weak association)
 https://www.javatpoint.com/uml-generalization
 https://www.google.com/amp/s/www.geeksforgeeks.org/association-composition-aggregation-java/amp/
 
+Inheritance "is-a" relationship
 Types of inheritance in java
 https://www.javatpoint.com/inheritance-in-java#:~:text=On%20the%20basis%20of%20class,is%20supported%20through%20interface%20only.
 
@@ -25,7 +37,10 @@ https://www.javatpoint.com/difference-between-abstract-class-and-interface
 Diamond problem in case of multiple inheritance
 https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java
 
-Polymorphism
+Polymorphism:
+Overloading
+Overriding
+Upcasting
 https://www.javatpoint.com/runtime-polymorphism-in-java
 
 Concrete Class
@@ -34,5 +49,3 @@ https://www.google.com/amp/s/www.geeksforgeeks.org/concrete-class-in-java/amp/
 Creational Design Pattern
 https://www.javatpoint.com/creational-design-patterns
 
-OOP Concept
-https://www.javatpoint.com/java-oops-concepts
