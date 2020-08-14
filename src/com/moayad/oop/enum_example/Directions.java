@@ -1,4 +1,4 @@
-package com.moayad.oop;
+package com.moayad.oop.enum_example;
 
 //Enum
 public enum Directions {

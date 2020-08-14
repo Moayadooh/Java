@@ -1,4 +1,4 @@
-package com.moayad.oop;
+package com.moayad.oop.abstract_class_example;
 
 //Abstract class
 //Directly creating instance from outside abstract class is NOT ALLOWED

@@ -1,4 +1,4 @@
-package com.moayad.oop;
+package com.moayad.oop.interface_example;
 
 //Interface
 //Object oriented design

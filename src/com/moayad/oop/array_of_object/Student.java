@@ -1,4 +1,4 @@
-package com.moayad.oop;
+package com.moayad.oop.array_of_object;
 
 //Array of object
 public class Student {

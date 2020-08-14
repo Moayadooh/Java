@@ -1,4 +1,4 @@
-package com.moayad.oop;
+package com.moayad.oop.nested_class;
 
 //Nested class
 public class Outer {
