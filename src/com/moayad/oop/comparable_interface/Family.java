@@ -1,4 +1,4 @@
-package com.moayad.oop.comparable_class;
+package com.moayad.oop.comparable_interface;
 
 //Comparable class
 //if it return 1 'first element is grater than second element' //Ascending order

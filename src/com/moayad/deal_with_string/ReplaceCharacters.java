@@ -7,9 +7,9 @@ public class ReplaceCharacters {
 		
 		//Replace specific character
 		text = text.replace('(', '[');
+		text = text.replace(')', ']');
 		
 		//Replace specific string
-		text = text.replace(')', ']');
 		text = text.replaceAll("method", "function");
 		
 		System.out.println(text);

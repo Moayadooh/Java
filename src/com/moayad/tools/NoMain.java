@@ -1,4 +1,4 @@
-package com.moayad.helloworld;
+package com.moayad.tools;
 
 public class NoMain {
     static {

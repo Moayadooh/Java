@@ -1,4 +1,4 @@
-package com.moayad.oop.comparable_class;
+package com.moayad.oop.comparable_interface;
 
 import java.util.ArrayList;
 import java.util.Collections;
