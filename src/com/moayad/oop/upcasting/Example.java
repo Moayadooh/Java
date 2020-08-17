@@ -1,7 +1,7 @@
 package com.moayad.oop.upcasting;
 
 class Vehicle{
-    Vehicle(){} //Default constructor
+    Vehicle(){}
     Vehicle(int arg){
         System.out.println("Super class");
     }

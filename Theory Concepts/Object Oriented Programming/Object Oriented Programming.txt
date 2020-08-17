@@ -1,51 +1,45 @@
-
 Java OOP Concepts:
 https://www.javatpoint.com/java-oops-concepts
-
-Object-based programming language follows all the features of OOPs except Inheritance. 
-JavaScript and VBScript are examples of object-based programming languages.
 
 OOP advantages:
 -easy to manage
 -secure (data hiding)
 -simulate real-world event much more effectively
 
-Static Binding happens at compile time.
-example: Method Overloading
+Object-based programming language follows all the features of OOPs except Inheritance. 
+JavaScript and VBScript are examples of object-based programming languages.
 
-Dynamic Binding happens at runtime.
-example: Method Overriding
+Static Binding: happens at compile time. Example: Method Overloading
+Dynamic Binding: happens at runtime. Example: Method Overriding
 
-Pure virtual function is a function that don't have implementations.
-example: An abstract method in Java
+Pure virtual function: function that don't have implementations. Example: abstract method in java
+
+Concrete Class: any class has an implementations of its methods (except abstract & interface classes)
 
 UML modeling:
-Generalization (inherit)
-Association (one-to-one, one-to-many, many-to-one, many-to-many)
-Composition (part-of), (strong association)
-Aggregation (has-a), (weak association)
-https://www.javatpoint.com/uml-generalization
-https://www.google.com/amp/s/www.geeksforgeeks.org/association-composition-aggregation-java/amp/
+-Generalization (inherit)
+-Association (one-to-one, one-to-many, many-to-one, many-to-many)
+-Composition (part-of), (strong association)
+-Aggregation (has-a), (weak association)
+-Inheritance "is-a" relationship
 
-Inheritance "is-a" relationship
-Types of inheritance in java
-https://www.javatpoint.com/inheritance-in-java#:~:text=On%20the%20basis%20of%20class,is%20supported%20through%20interface%20only.
+Types of inheritance in java:
+-Single
+-Multilevel
+-Hierarchical
+-Multiple
+-Hybrid
+
+Polymorphism:
+-Overloading
+-Overriding
+-Upcasting
+
+Coupling: Dependency of the classes (class have details of another class).
+Cohesion: The class components are related to the class name.
 
 Difference between abstract class and interface in java
 https://www.javatpoint.com/difference-between-abstract-class-and-interface
 
 Diamond problem in case of multiple inheritance
 https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java
-
-Polymorphism:
-Overloading
-Overriding
-Upcasting
-https://www.javatpoint.com/runtime-polymorphism-in-java
-
-Concrete Class
-https://www.google.com/amp/s/www.geeksforgeeks.org/concrete-class-in-java/amp/
-
-Creational Design Pattern
-https://www.javatpoint.com/creational-design-patterns
-
