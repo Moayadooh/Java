@@ -13,6 +13,9 @@ class Product extends Company{
     Product(){
         System.out.println("child class constructor");
     }
+    Product(int a){
+
+    }
 }
 
 public class Example {

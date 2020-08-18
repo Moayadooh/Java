@@ -43,3 +43,6 @@ https://www.javatpoint.com/difference-between-abstract-class-and-interface
 
 Diamond problem in case of multiple inheritance
 https://www.tutorialspoint.com/what-is-diamond-problem-in-case-of-multiple-inheritance-in-java
+
+Gang of Four design patterns
+https://springframework.guru/gang-of-four-design-patterns/

@@ -19,7 +19,7 @@ class Product extends Company {
         System.out.println("Quantity is "+quantity);
     }
 
-    //Instance initializer block (called while class is loaded)
+    //Instance initializer block (called while class is loaded) "The static member is called at compile time"
     static {
         System.out.println("static instance initializer block");
     }
