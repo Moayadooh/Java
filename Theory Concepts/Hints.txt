@@ -1,0 +1,18 @@
+-Interface
+-Abstract
+-Enum "DO NOT USE THE 'new' KEY WORD"
+-Array of object "USE 'new' KEY wORD"
+-Generic
+-Comparable "Collections.sort(<list>);"
+-nested class "Outer.Nested nested = outer.new Nested(<value>);"
+-Singleton "static Singleton getSingleton()"  "Singleton singleton = Singleton.getSingleton();"
+
+
+hm.containsKey(key)
+hm.get(key)
+
+for(Map.Entry val : hm.entrySet())
+{
+    val.getValue();
+    val.getKey());
+}
