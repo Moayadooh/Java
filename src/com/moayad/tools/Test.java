@@ -1,17 +1,14 @@
 package com.moayad.tools;
 
-import java.util.Arrays;
-
 public class Test {
 
     public static void main(String[] args) {
-        String word = "independent";
-        char letters[] = word.toCharArray();
-
-        Arrays.sort(letters);
-
-        for(char letter : letters)
-            System.out.println(letter);
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i=0;i<1000;i++){
+            stringBuilder.append(i+" ");
+        }
+        String numbers = stringBuilder.toString();
+        System.out.println(numbers);
     }
 
 }
