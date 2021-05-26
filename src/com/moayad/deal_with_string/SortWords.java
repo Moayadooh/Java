@@ -10,9 +10,9 @@ public class SortWords {
 		listOfWords.add("Moayad");
 		listOfWords.add("Eyad");
 		listOfWords.add("Salim");
-		
+
 		Collections.sort(listOfWords);
-		
+
 		for(String name:listOfWords)
 			System.out.println(name);
 	}
